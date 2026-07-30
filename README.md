@@ -22,14 +22,3 @@ A production-grade, fault-tolerant backend system designed to decouple HTTP requ
 * **Validation:** Zod
 * **Delivery & Testing:** Nodemailer, Ethereal SMTP
 
----
-
-## ⚙️ Getting Started & Local Development
-
-### 1. Prerequisites
-Ensure you have **Node.js** and **Docker** installed on your machine.
-
-### 2. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/notification-engine.git](https://github.com/YOUR_USERNAME/notification-engine.git)
-cd notification-engine
