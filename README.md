@@ -1,4 +1,4 @@
-# Asynchronous Notification Engine
+# DispatchFlow - Asynchronous Notification Engine
 
 A production-grade, fault-tolerant backend system designed to decouple HTTP request ingestion from background message processing, ensuring high availability and reliable dispatching of transactional notifications.
 
